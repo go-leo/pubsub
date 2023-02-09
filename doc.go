@@ -1,1 +1,1 @@
-package leo_message
+package leo_pubsub

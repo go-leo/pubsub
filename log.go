@@ -1,4 +1,4 @@
-package leo_message
+package leo_pubsub
 
 import (
 	"github.com/ThreeDotsLabs/watermill"
