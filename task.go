@@ -1,4 +1,4 @@
-package leo_pubsub
+package pubsub
 
 import (
 	"context"

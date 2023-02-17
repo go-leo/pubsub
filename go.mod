@@ -1,4 +1,4 @@
-module github.com/go-leo/leo-pubsub
+module github.com/go-leo/pubsub
 
 go 1.19
 
