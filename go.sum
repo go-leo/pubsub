@@ -1,10 +1,10 @@
 github.com/ThreeDotsLabs/watermill v1.2.0 h1:TU3TML1dnQ/ifK09F2+4JQk2EKhmhXe7Qv7eb5ZpTS8=
 github.com/ThreeDotsLabs/watermill v1.2.0/go.mod h1:IuVxGk/kgCN0cex2S94BLglUiB0PwOm8hbUhm6g2Nx4=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
+github.com/go-leo/gox v0.0.0-20230217060750-a9cf1b237ddf h1:T4vwrE7E4+nK8jJvgrl8+5GK4XSBijlsWbMMZ0EKXFs=
+github.com/go-leo/gox v0.0.0-20230217060750-a9cf1b237ddf/go.mod h1:fDEzjWA6aN3++vywlv7sNg5a5Jd9sDctXnn9KTSILOI=
 github.com/go-leo/leo/v2 v2.0.0-20230209063935-f09f4676a0a1 h1:BVkmfv2M1iR/zgR2ZVADMjaRWxrMnh+9m3RGIp0RFx4=
 github.com/go-leo/leo/v2 v2.0.0-20230209063935-f09f4676a0a1/go.mod h1:AvlUYiIIcG8VAnMsQV50MIaGB1pWd1zF5gyDSRO+nw8=
-github.com/go-leo/stringx v1.0.1 h1:RXm56lRpLQ7q/yRr16W4vxFRUv0mrPIE4ERF7mOATYs=
-github.com/go-leo/stringx v1.0.1/go.mod h1:3EdJ8CukcBUg8rrVRhRVJfF37uYAytcL9w5MWK1MWBg=
 github.com/google/uuid v1.2.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
 github.com/google/uuid v1.3.0 h1:t6JiXgmwXMjEs8VusXIJk2BXHsn+wx8BZdTaoZ5fu7I=
 github.com/google/uuid v1.3.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=

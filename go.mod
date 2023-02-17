@@ -4,8 +4,8 @@ go 1.19
 
 require (
 	github.com/ThreeDotsLabs/watermill v1.2.0
+	github.com/go-leo/gox v0.0.0-20230217060750-a9cf1b237ddf
 	github.com/go-leo/leo/v2 v2.0.0-20230209063935-f09f4676a0a1
-	github.com/go-leo/stringx v1.0.1
 )
 
 require (

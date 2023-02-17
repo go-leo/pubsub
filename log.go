@@ -2,8 +2,8 @@ package pubsub
 
 import (
 	"github.com/ThreeDotsLabs/watermill"
+	"github.com/go-leo/gox/stringx"
 	"github.com/go-leo/leo/v2/log"
-	"github.com/go-leo/stringx"
 )
 
 var _ watermill.LoggerAdapter = new(logger)
