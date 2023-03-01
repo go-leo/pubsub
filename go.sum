@@ -3,8 +3,8 @@ github.com/ThreeDotsLabs/watermill v1.2.0/go.mod h1:IuVxGk/kgCN0cex2S94BLglUiB0P
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/go-leo/gox v0.0.0-20230217060750-a9cf1b237ddf h1:T4vwrE7E4+nK8jJvgrl8+5GK4XSBijlsWbMMZ0EKXFs=
 github.com/go-leo/gox v0.0.0-20230217060750-a9cf1b237ddf/go.mod h1:fDEzjWA6aN3++vywlv7sNg5a5Jd9sDctXnn9KTSILOI=
-github.com/go-leo/leo/v2 v2.0.0-20230209063935-f09f4676a0a1 h1:BVkmfv2M1iR/zgR2ZVADMjaRWxrMnh+9m3RGIp0RFx4=
-github.com/go-leo/leo/v2 v2.0.0-20230209063935-f09f4676a0a1/go.mod h1:AvlUYiIIcG8VAnMsQV50MIaGB1pWd1zF5gyDSRO+nw8=
+github.com/go-leo/leo/v2 v2.0.0-20230301070440-01e50fabaacb h1:1YVjXRMMxEcfeczHHXVcBH8e+VzrYMCD+E9DLDDApic=
+github.com/go-leo/leo/v2 v2.0.0-20230301070440-01e50fabaacb/go.mod h1:AvlUYiIIcG8VAnMsQV50MIaGB1pWd1zF5gyDSRO+nw8=
 github.com/google/uuid v1.2.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
 github.com/google/uuid v1.3.0 h1:t6JiXgmwXMjEs8VusXIJk2BXHsn+wx8BZdTaoZ5fu7I=
 github.com/google/uuid v1.3.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=

@@ -37,8 +37,8 @@ func (l *logger) With(fields watermill.LogFields) watermill.LoggerAdapter {
 	return &logger{l: l.l.With(fs...)}
 }
 
-func (l *logger) toLogF(msg string, err error, fields watermill.LogFields) []log.F {
-	var fs []log.F
+func (l *logger) toLogF(msg string, err error, fields watermill.LogFields) []log.Field {
+	var fs []log.Field
 	if stringx.IsNotBlank(msg) {
 		fs = append(fs, log.F{K: "msg", V: msg})
 	}
